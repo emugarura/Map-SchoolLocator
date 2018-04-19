@@ -1,4 +1,4 @@
-CPS School Locator
+Rwanda TVET School Locator
 ======
 
 Valid for School Year: 2017-18
@@ -6,13 +6,11 @@ Valid for School Year: 2017-18
 ---
 
 
-The CPS School Locator is a tool used to search for and compare schools in the Chicago Public School system. [View the live map](http://cps.edu/map)
+The Rwanda TVET School Locator is a tool used to search for and compare TVET schools in Rwanda. [View the live map](http://wda.gov.rw/gis)
 
+>The TVET School Locator allows you to search for your neighborhood school, search for schools within a radius of an address, search for schools within a province, and search for schools close to your current location.
 
-
->The CPS School Locator allows you to search for your neighborhood school, search for schools within a radius of an address, search for schools within a zip code, and search for schools close to your current location.
-
-**How to use the CPS School Locator**
+**How to use the TVET School Locator**
 ------
 ## Searches
 There are four types of search results:
@@ -20,13 +18,13 @@ There are four types of search results:
 1. Address/Location
 2. School
 3. Radius
-4. Zip Code
+4. Province
 
 #### Address Search
-**An Address Search results in your neighborhood school being shown.** If an address is typed into the search box the result lists the neighborhood schools (elementary, middle, and high) that your child can attend (without having to fill out an application). The map shows the geolocated address, the school locations, and the attendance boundary areas.
+**An Address Search results in your neighborhood school being shown.** If an address is typed into the search box the result lists the neighborhood schools (Level One, Level 2, Level 3, Level 4, Level 5, Level 6, Level 7) that your child can attend. The map shows the geolocated address, the school locations, and the attendance boundary areas.
 
 #### Location Search
-**A Location Search results in your neighborhood school being shown.** If you press and hold on the map for 2 seconds or click the Find Schools Around Me button the display lists the neighborhood schools (elementary, middle, and high) that your child can attend (without having to fill out an application). The map shows the location of the long press (or the geolocated address of the Find Me feature), the school locations, and the attendance boundary areas.
+**A Location Search results in your neighborhood school being shown.** If you press and hold on the map for 2 seconds or click the Find Schools Around Me button the display lists the neighborhood schools that your child can attend. The map shows the location of the long press (or the geolocated address of the Find Me feature), the school locations, and the attendance boundary areas.
 
 #### School Search
 **A School Search results in one school being displayed.** If a school name is typed and chosen from the drop-down the detail panel of that school is displayed. The map shows the school location and attendance boundary area.
@@ -91,17 +89,10 @@ An overlay is a transparent layer of additional information that appears on top 
 ## Features
  * Toggle between School Category and School Rating icons
  * Google Street View
- * Link to CPS School Profile
+ * Link to School Profile
  * Directions by Google
  * Introductory tour
- * LSC Boundaries
-
-
-
-**How to make a School Locator for your district**
-
-The code posted here is the actual code used in the CPS School Locator so it is particular to the data that is used in CPS. It is not "templetized" - it is a work in progress. It is posted here to show you how we did it and hopefully, help get you started in developing your own locator.
-
+ * Boundaries
 
 
 ## Dependencies
@@ -113,7 +104,4 @@ The code posted here is the actual code used in the CPS School Locator so it is 
  * [FontAwesome](http://fontawesome.io/)
  * [FusionTips](https://github.com/derekeder/fusiontips)
 
-
-
-
-Copyright (c) 2017 Chicago Public Schools. Released under the MIT License.
+Copyright (c) 2018 Workforce Development Authority (WDA). Released under the MIT License.
